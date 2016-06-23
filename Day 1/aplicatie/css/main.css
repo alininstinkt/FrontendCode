@@ -1,0 +1,7 @@
+.description{
+	text-align: center;
+ 	color: #330099;
+}
+.table-striped tr:nth-child(odd) td{
+	background-color: aqua !important;
+}
